@@ -1,0 +1,2 @@
+# szkolenie-git
+testowe repozytorium
