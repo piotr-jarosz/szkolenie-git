@@ -1,3 +1,2 @@
 if 'dog' == True
-  print('Its a dog')
-
+  print("It's a dog")
